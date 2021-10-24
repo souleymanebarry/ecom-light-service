@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.barry</groupId>
     <artifactId>ecom-light</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1-RC</version>
     <name>ecom-light</name>
     <description>ecom-light</description>
     <properties>
